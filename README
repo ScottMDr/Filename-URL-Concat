@@ -1,0 +1,3 @@
+Simple python app for concat URL and filename in preperation for FTP uploads.
+
+Requires tkinter standard library which is available in recent Python versions
